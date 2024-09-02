@@ -5,3 +5,4 @@ class Car {
         console.log(`Driving a ${this.make}`);
     }
 }
+
