@@ -4,7 +4,6 @@ interface Person{
 }
 const person: Person = {
     firstName: 'Juliana'
-    //lastName es pcional
 }
 
 console.log(`Persona: ${person.firstName} `)
